@@ -1,0 +1,24 @@
+{
+  "name": "to-do-app-nodejs",
+  "version": "1.0.0",
+  "description": "My first todo-app in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishu495/To-Do-App-NodeJS.git"
+  },
+  "author": "Rishabh Agrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishu495/To-Do-App-NodeJS/issues"
+  },
+  "homepage": "https://github.com/rishu495/To-Do-App-NodeJS#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
