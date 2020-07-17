@@ -18,7 +18,7 @@
 
 <!-- Instruction for adding todo -->
 
---------> You can type your todos in decription
+--------> You can type your todos in description
 
 --------> You can select category from dropdownlist
 
